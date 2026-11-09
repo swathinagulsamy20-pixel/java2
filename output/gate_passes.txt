@@ -1,0 +1,193 @@
+=================================================================================
+                 DAILY GATE-OUT CLEARANCE PASSES EXPORT LOG                      
+=================================================================================
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0001                                    |
+| Gate Out Timestamp    : 2026-11-09 14:46:52.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : APLU8877665                                     |
+| Cargo Category        : REEFER                                          |
+| Gross Weight          : 27.00                                           Tons |
+| Yard Storage Slot     : BLK-A-R01-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : TN-33-AX-8910                                   |
+| Driver License No     : DL-IND-901234                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202602                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 2  Days (Free Cap: 3 Days)                       |
+| Daily Demurrage Rate  : $200.00                                         |
+| Demurrage Penalty Due : $0.00                                           |
+| Performance Score     : 97.50 / 100.0                                    |
+| Operational Band      : Port Priority Clear (Fast-Track Gate Out)       |
+| Gate Clearance Status : FAST-TRACK EXIT APPROVED                        |
++-------------------------------------------------------------------------+
+| Remarks               : WITHIN FREE DWELL ALLOWANCE - NORMAL EXIT       |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0002                                    |
+| Gate Out Timestamp    : 2026-11-09 14:47:52.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : CMAU7718290                                     |
+| Cargo Category        : HAZMAT                                          |
+| Gross Weight          : 28.60                                           Tons |
+| Yard Storage Slot     : BLK-C-H01-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : MH-04-CK-4021                                   |
+| Driver License No     : DL-IND-445566                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202603                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 2  Days (Free Cap: 2 Days)                       |
+| Daily Demurrage Rate  : $300.00                                         |
+| Demurrage Penalty Due : $0.00                                           |
+| Performance Score     : 92.20 / 100.0                                    |
+| Operational Band      : Port Priority Clear (Fast-Track Gate Out)       |
+| Gate Clearance Status : FAST-TRACK EXIT APPROVED                        |
++-------------------------------------------------------------------------+
+| Remarks               : WITHIN FREE DWELL ALLOWANCE - NORMAL EXIT       |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0003                                    |
+| Gate Out Timestamp    : 2026-11-09 14:48:52.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : HLCU6619201                                     |
+| Cargo Category        : STANDARD_DRY                                    |
+| Gross Weight          : 24.00                                           Tons |
+| Yard Storage Slot     : BLK-B-D02-T1                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : KA-01-MJ-9912                                   |
+| Driver License No     : DL-IND-778899                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202604                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 10 Days (Free Cap: 7 Days)                       |
+| Daily Demurrage Rate  : $150.00                                         |
+| Demurrage Penalty Due : $450.00                                         |
+| Performance Score     : 68.20 / 100.0                                    |
+| Operational Band      : Delayed Clearance (Demurrage Warning Issued)    |
+| Gate Clearance Status : PAID & CLEARED FOR EXIT                         |
++-------------------------------------------------------------------------+
+| Remarks               : DEMURRAGE PENALTY COLLECTED ($450.00 for 3 days overdue) |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0004                                    |
+| Gate Out Timestamp    : 2026-11-09 14:49:53.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : MSCU4829105                                     |
+| Cargo Category        : STANDARD_DRY                                    |
+| Gross Weight          : 22.10                                           Tons |
+| Yard Storage Slot     : BLK-B-D02-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : DL-10-BT-1122                                   |
+| Driver License No     : DL-IND-223344                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202605                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 5  Days (Free Cap: 7 Days)                       |
+| Daily Demurrage Rate  : $150.00                                         |
+| Demurrage Penalty Due : $0.00                                           |
+| Performance Score     : 92.20 / 100.0                                    |
+| Operational Band      : Port Priority Clear (Fast-Track Gate Out)       |
+| Gate Clearance Status : FAST-TRACK EXIT APPROVED                        |
++-------------------------------------------------------------------------+
+| Remarks               : WITHIN FREE DWELL ALLOWANCE - NORMAL EXIT       |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0005                                    |
+| Gate Out Timestamp    : 2026-11-09 14:50:53.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : MSKU1029384                                     |
+| Cargo Category        : REEFER                                          |
+| Gross Weight          : 26.40                                           Tons |
+| Yard Storage Slot     : BLK-A-R02-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : WB-02-QA-7744                                   |
+| Driver License No     : DL-IND-990011                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202606                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 3  Days (Free Cap: 3 Days)                       |
+| Daily Demurrage Rate  : $200.00                                         |
+| Demurrage Penalty Due : $0.00                                           |
+| Performance Score     : 95.10 / 100.0                                    |
+| Operational Band      : Port Priority Clear (Fast-Track Gate Out)       |
+| Gate Clearance Status : FAST-TRACK EXIT APPROVED                        |
++-------------------------------------------------------------------------+
+| Remarks               : WITHIN FREE DWELL ALLOWANCE - NORMAL EXIT       |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0006                                    |
+| Gate Out Timestamp    : 2026-11-09 14:51:53.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : ONEU3322110                                     |
+| Cargo Category        : STANDARD_DRY                                    |
+| Gross Weight          : 21.00                                           Tons |
+| Yard Storage Slot     : BLK-B-D01-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : KL-07-ZZ-3311                                   |
+| Driver License No     : DL-IND-334455                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202607                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 4  Days (Free Cap: 7 Days)                       |
+| Daily Demurrage Rate  : $150.00                                         |
+| Demurrage Penalty Due : $0.00                                           |
+| Performance Score     : 96.00 / 100.0                                    |
+| Operational Band      : Port Priority Clear (Fast-Track Gate Out)       |
+| Gate Clearance Status : FAST-TRACK EXIT APPROVED                        |
++-------------------------------------------------------------------------+
+| Remarks               : WITHIN FREE DWELL ALLOWANCE - NORMAL EXIT       |
++-------------------------------------------------------------------------+
+
++-------------------------------------------------------------------------+
+|                   INTERNATIONAL PORT CONTAINER TERMINAL                 |
+|                      OFFICIAL GATE DISPATCH PASS                        |
++-------------------------------------------------------------------------+
+| Pass Identifier       : GP-2026-0007                                    |
+| Gate Out Timestamp    : 2026-11-09 14:52:53.0                           |
+| Issuing Authority     : PORT_STATION_DESK_01                            |
++-------------------------------------------------------------------------+
+| Container ISO Code    : ZIMU5544332                                     |
+| Cargo Category        : HAZMAT                                          |
+| Gross Weight          : 19.50                                           Tons |
+| Yard Storage Slot     : BLK-C-H02-T2                                    |
++-------------------------------------------------------------------------+
+| Haulier Truck Reg No  : AP-16-EE-5544                                   |
+| Driver License No     : DL-IND-667788                                   |
+| Customs Release Stamp : CUSTOMS-REL-AUTH-202608                         |
++-------------------------------------------------------------------------+
+| Actual Dwell Duration : 4  Days (Free Cap: 2 Days)                       |
+| Daily Demurrage Rate  : $350.00                                         |
+| Demurrage Penalty Due : $700.00                                         |
+| Performance Score     : 82.00 / 100.0                                    |
+| Operational Band      : Standard Flow (Normal Yard Clearance)           |
+| Gate Clearance Status : PAID & CLEARED FOR EXIT                         |
++-------------------------------------------------------------------------+
+| Remarks               : DEMURRAGE PENALTY COLLECTED ($700.00 for 2 days overdue) |
++-------------------------------------------------------------------------+
+

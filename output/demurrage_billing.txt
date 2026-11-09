@@ -1,0 +1,22 @@
+==============================================================================================
+              INTERNATIONAL PORT TERMINAL - DEMURRAGE BILLING & DWELL AUDIT                   
+==============================================================================================
+Terminal Container Dwell Index (TCDI): 4.50 Days / Container
+Formula: TCDI = [SUM(IndividualContainerDwellDays)] / TotalProcessedContainers
+Demurrage Formula: TotalDemurrageFine = (ActualDwellDays - FreeDaysCap) * DailyDemurrageRate
+----------------------------------------------------------------------------------------------
+Container ID   | Category      | Dwell  | Cap    | Overdue  | Daily Rate   | Total Fine   | Billing Status
+----------------------------------------------------------------------------------------------
+APLU8877665    | REEFER        | 2      | 3      | 0        | $200.00      | $0.00        | FREE_DWELL_PERIOD
+CMAU7718290    | HAZMAT        | 2      | 2      | 0        | $300.00      | $0.00        | FREE_DWELL_PERIOD
+HLCU6619201    | STANDARD_DRY  | 10     | 7      | 3        | $150.00      | $450.00      | DEMURRAGE_PENALTY_BILLED
+MSCU4829105    | STANDARD_DRY  | 5      | 7      | 0        | $150.00      | $0.00        | FREE_DWELL_PERIOD
+MSKU1029384    | REEFER        | 3      | 3      | 0        | $200.00      | $0.00        | FREE_DWELL_PERIOD
+ONEU3322110    | STANDARD_DRY  | 4      | 7      | 0        | $150.00      | $0.00        | FREE_DWELL_PERIOD
+OOLU9918274    | REEFER        | 6      | 3      | 3        | $220.00      | $660.00      | DEMURRAGE_PENALTY_BILLED
+ZIMU5544332    | HAZMAT        | 4      | 2      | 2        | $350.00      | $700.00      | DEMURRAGE_PENALTY_BILLED
+----------------------------------------------------------------------------------------------
+Total Containers Evaluated    : 8
+Total Demurrage Penalties     : 3 Containers Exceeded Cap
+Total Demurrage Revenue Due   : $1810.00
+==============================================================================================
